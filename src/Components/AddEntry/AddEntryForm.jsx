@@ -12,6 +12,7 @@ const AddEntryForm = (props) => {
             date: date
         };
         console.log(newEntry);
+        props.addNewEntryProp(newEntry);
     }
 
     return ( 
