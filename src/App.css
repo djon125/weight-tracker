@@ -1,0 +1,15 @@
+.border-box {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    margin: 1em;
+    padding: 1em;
+}
+
+button {
+    margin-top: 1em;
+}
+
+.form-grid {
+    display: grid;
+}
